@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,s}from"./framework-aa5c4115.js";const _={},c=s("p",null,"这里是html内容",-1),o=[c];function l(r,a){return t(),n("div",null,o)}const i=e(_,[["render",l],["__file","index.html.vue"]]);export{i as default};

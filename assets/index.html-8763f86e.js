@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as c,s as n}from"./framework-aa5c4115.js";const s={},_=n("p",null,"这里是react内容",-1),o=[_];function r(a,l){return t(),c("div",null,o)}const i=e(s,[["render",r],["__file","index.html.vue"]]);export{i as default};
