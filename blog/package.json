@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-reco-demo",
+  "version": "2.0.0",
+  "description": "Demo for vuepress-theme-reco@2.x.",
+  "repository": "https://github.com/huangjin999/huangjin.git",
+  "author": "沈路威",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-theme-reco": "2.0.0-beta.53"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-beta.61",
+    "@vuepress/bundler-webpack": "^2.0.0-beta.61",
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.61"
+  }
+}
