@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-db7fa750","path":"/blogs/category1/miniapp/","title":"小程序标题","lang":"zh-CN","frontmatter":{"title":"小程序标题","date":"2023/03/27","tags":["小程序"],"categories":["小程序"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/category1/miniapp/index.md"}');export{t as data};

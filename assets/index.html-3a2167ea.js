@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-32383bdc","path":"/blogs/category1/shell/","title":"shell标题","lang":"zh-CN","frontmatter":{"title":"shell标题","date":"2023/03/27","tags":["shell"],"categories":["shellList"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/category1/shell/index.md"}');export{e as data};

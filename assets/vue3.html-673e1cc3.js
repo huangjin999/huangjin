@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as s,s as _}from"./framework-aa5c4115.js";const c={},o=_("p",null,"待更新~",-1),n=[o];function r(a,l){return t(),s("div",null,n)}const d=e(c,[["render",r],["__file","vue3.html.vue"]]);export{d as default};
